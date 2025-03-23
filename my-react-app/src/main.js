@@ -1,5 +1,5 @@
 import './style.css'
-import myImage from './myImage.png';
+import myImage from 'public/myImage.png';
 import javascriptLogo from './javascript.svg'
 import { setupCounter } from './counter.js'
 
